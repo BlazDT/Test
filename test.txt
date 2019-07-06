@@ -1,4 +1,4 @@
-[Adblock Plus 2.0]
+! [Adblock Plus 2.0]
 ! Title: adgk
 ! Version: 1.0
 ! Homepage: https://jq.qq.com/?_wv=1027&k=52qh8aF
