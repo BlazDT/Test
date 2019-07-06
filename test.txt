@@ -11,11 +11,9 @@ v*-dy.ixigua.com/*/video/m/$app=~com.ss.android.ugc.aweme
 m.baidu.com,www.baidu.com$$div[class="main"]
 ||e.qq.com
 /?encrypt=$empty,app=com.tencent.mtt.intl
-zhidao.baidu.com,www.baidu.com##[class^="EC_ads_"],.wgt-ads,div#left-promotion,div#ui-tooltip-0,div.cms-slide.cms-slide-optimus,div.wgt-bottom-ask,div.cms-slide.cms-slide-lazy,div.aside,div.aside-inner,div#top.top,#wgt-ecom-banner,.bannerdown,.cur
 $$div[class="_ad_"]
 $$div[class=".ad."]
 $$div[class="-ad-"]
-zhidao.baidu.com,www.baidu.com###left-promotion,#ui-tooltip-0,div.cms-slide.cms-slide-optimus,div.wgt-bottom-ask,div.cms-slide.cms-slide-lazy
 cn.bing.com,www.bing.com,www4.bing.com$$div[class="BottomAppPro"]
 zhidao.baidu.com,www.baidu.com##.icon-bannerad
 zhidao.baidu.com,www.baidu.com##IMG[src*='iknowwap.bdimg.com']
@@ -33,7 +31,6 @@ zhidao.baidu.com,www.baidu.com##FOOTER#respect-footer
 tieba.baidu.com$$a[class="ti_item j_click_stats"]
 ||upgrade.xl9.xunlei.com^
 ||service.weibo.com/share/
-m.baidu.com,www.baidu.com###provider,div[class$="fixed"],SECTION#middle_banner,.ec_ad_results,.shopping-item,#bottomOperate
 ||hub5*.sandai.net^
 ||lnk0.com^
 ||lattestatic.lattebank.com/huanbapp.apk
@@ -87,7 +84,6 @@ tieba.baidu.com##div.panel_bottom,li.tl_shadow tl_shadow_new^
 ||api.message.le.com/v^/messages?
 ||play.videocache.lecloud.com/*/letv-gug/*.mp4 !--qq.com
 ||api.my.tv.sohu.com/wm/getads.do
-www.iqiyi.com/*.html##.rightpcadv,.pca-img
 ||iqiyi.com/*.html##%:-webkit-full-screen{max-width:none!important;visibility:visible!important}$b
 ||adsystem.wasu.tv
 ||a.v.duowan.com/
