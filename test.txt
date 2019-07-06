@@ -1,8 +1,3 @@
-! [Adblock Plus 2.0]
-! Title: adgk
-! Version: 1.0
-! Homepage: https://jq.qq.com/?_wv=1027&k=52qh8aF
-! by:dalao
 dmhy.org$$div[id="_ad"]
 ||data.video.ptqy.gitv.tv/videos/other/$mp4
 ||mmstat.com^
