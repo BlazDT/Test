@@ -66,14 +66,3 @@ app.bilibili.com##[id^="ad_info"]
 ||pic1.97jut.com
 ||www.logitepic.com
 ||pic3.429bi.com
-||infoc2.duba.net/nep/v1/$app=com.cleanmaster.mguard_cn
-||h-adashx.ut.taobao.com/upload$app=com.youku.phone
-||h-adashx.ut.taobao.com
-||acs.m.taobao.com/gw/mtop.common.getTimestamp/*$app=com.youku.phone
-||playlog.youku.com/playlog/open/push.json?appkey=7rAjuFi3fYGo1HUu&brand=HUAWEI&btype=CUN-TL00&cg=%E7%94%B5%E8%A7%86%E5%89%A7&deviceid=5a507930bab3ebdb&devicename=Android&fid=&guid=4e8192c29f8c2c5b205b82e91586e7fc&hwclass=4&lang=1&network=1000&nlid=Wr5Azpha1PYDAH9UsXvlUJxt&os=Android&os_ver=5.1&po=0&shid=5befbfbdefbfbd1aefbf&stoken=&time=1528258570&tp=1&utdid=Wr5Azpha1PYDAH9UsXvlUJxt&v=XMzYyOTExNzYyMA%3D%3D&ver=7.3.0&sign=805b59c6433ceb001603e8d57ceec073$app=com.youku.phone
-||pv.sohu.com/cityjson?ie=utf-8$app=com.youku.phone
-||iyes.youku.com$app=com.adguard.dns
-||g.alicdn.com/alilog/??s/8.4.5/plugin/aplus_bcbridge.js,s/8.4.5/plugin/aplus_client.js,aplus_cplugin/0.4.1/toolkit.js,aplus_cplugin/0.4.1/monitor.js,s/8.4.5/aplus_o.js,s/8.4.5/plugin/aplus_urchin2.js,aplus_cplugin/0.4.1/aol.js?v=20180524170552$third-party
-||gw.alicdn.com$app=com.adguard.dns
-tieba.baidu.com##div.panel_bottom,li.tl_shadow tl_shadow_new^
-||ossgw.alicdn.com/awp/h5.m.taobao.com/app/zykvipdemo0412/app-37667.zip$app=com.youku.phone
