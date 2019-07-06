@@ -3,10 +3,3 @@ dmhy.org$$div[id="_ad"]
 ||mmstat.com^
 v*-dy.ixigua.com/*/video/m/$app=~com.ss.android.ugc.aweme
 ||img.piaosugo.com*.jpg
-.atm.cp31.ott.cibntv.net$media,MP4
-/imgad^
-||cpoml.iask.sina.com.cn^$empty
-||sl.sogoucdn.com/semob$empty,popup
-m.baidu.com,www.baidu.com$$div[class="main"]
-||e.qq.com
-/?encrypt=$empty,app=com.tencent.mtt.intl
